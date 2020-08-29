@@ -1,5 +1,5 @@
-# Assignments_in_PYTHON
-## Assignment_1
+- # Assignments_in_PYTHON
++ ## Assignment_1
 | Program | link |
 | ------- | ---- |
 | `Find the area of the triangle using 3 sides.` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment1/triangle.py) |
