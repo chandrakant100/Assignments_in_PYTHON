@@ -10,10 +10,10 @@
 + ## Assignment_2
 | Program | link |
 | ------- | ---- |
-| `1.WAP to calculate the gross salary of an employee by giving basic salary.Also calculate DA (60%) HRA(15%), Conveyance (15%), Medical (10%). Gross salary = Basic + DA + Conveyance + Medical` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/salary.py) |
+| `1.WAP to calculate the gross salary of an employee by giving basic salary.Also calculate`<br> `DA (60%) HRA(15%), Conveyance (15%), Medical (10%).`<br> `Gross salary = Basic + DA + Conveyance + Medical` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/salary.py) |
 | `2.WAP to calculate the hours, minutes and seconds by giving seconds as input.`| [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/time.py) | 
 | `3.WAP to test whether the given no is divisible by both 11 & 13 or by both 5 and 7.` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/divisiblity.py) |
-| `4.WAP to evaluate the following expression from inputted values of a, b, c, d. x = (a - b) / (c - d). Give a suitable error message if denominator is zero. 5.` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/denominator.py) |
+| `4.WAP to evaluate the following expression from inputted values of a, b, c, d.`<br> `x = (a - b) / (c - d). Give a suitable error message if denominator is zero. 5.` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/denominator.py) |
 | `5.WAP to round a given floating point number to integer by considering the floor & ceiling operation without using built in function.` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/Round.py) |
 | `6.WAP to check whether a given year is leap year or not.` |[link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/leap.py) |
 | `7.WAP to compute the real roots of the quadratic equation ax2 +bx+c=0.` | [link](https://github.com/chandrakant100/Assignments_in_PYTHON/blob/master/assignment2/quadratic.py) |
